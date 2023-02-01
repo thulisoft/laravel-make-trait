@@ -39,6 +39,5 @@
                 "Thulisoft\\MakeTrait\\Providers\\MakeTraitServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
